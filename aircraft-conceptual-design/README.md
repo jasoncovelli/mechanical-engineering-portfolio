@@ -2,6 +2,12 @@
 
 **Overview**
 
+![Historical Design Inputs](historical_design_inputs.png)
+
+![Aircraft Isometric View](aircraft_isometric.png)
+
+![Aircraft Top View](aircraft_top_view.png)
+
 Conceptual design of a midsize VIP jet under transport-category performance constraints. The project followed a structured sizing approach beginning with mission definition, followed by constraint-based performance analysis, iterative refinement of wing loading and thrust-to-weight parameters, and integration of propulsion, fuel storage, and cabin layout considerations.
 
 Initial performance estimates produced excessive takeoff field length (>10,000 ft). Iterative refinement of W/S and T/W selections reduced runway requirements while maintaining cruise efficiency and mission range targets.
@@ -41,7 +47,7 @@ Initial performance estimates produced excessive takeoff field length (>10,000 f
 
 **Key Technical Insights**
 
-- Takeoff field length can dominate early aircraft sizing decisions;
-- Wing loading and thrust-to-weight ratio are strongly coupled in constraint-driven design;
-- Fuel placement significantly affects CG migration and trim drag;
-- Early assumptions propagate heavily into final geometry;
+- Takeoff field length can dominate early aircraft sizing decisions
+- Wing loading and thrust-to-weight ratio are strongly coupled in constraint-driven design
+- Fuel placement significantly affects CG migration and trim drag
+- Early assumptions propagate heavily into final geometry
