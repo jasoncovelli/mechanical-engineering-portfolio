@@ -11,37 +11,37 @@ Initial performance estimates produced excessive takeoff field length (>10,000 f
 
 **1. Mission Definition**
 
-Established aircraft role and competitive range targets
-Developed mission profile and key performance requirements
+- Established aircraft role and competitive range targets
+- Developed mission profile and key performance requirements
 
 **2. Constraint-Based Parameter Selection**
 
-Calculated required wing loading (W/S) and thrust-to-weight ratio (T/W) values across multiple mission phases including takeoff, climb, cruise, ceiling, sustained turn, and landing
-Organized results to compare competing constraints across flight conditions
-Selected final W/S and T/W values that satisfied all mission requirements simultaneously
-Iteratively refined selections after initial sizing produced excessive takeoff field length (>10,000 ft)
+- Calculated required wing loading (W/S) and thrust-to-weight ratio (T/W) values across multiple mission phases including takeoff, climb, cruise, ceiling, sustained turn, and landing
+- Organized results to compare competing constraints across flight conditions
+- Selected final W/S and T/W values that satisfied all mission requirements simultaneously
+- Iteratively refined selections after initial sizing produced excessive takeoff field length (>10,000 ft)
 
 **3. Propulsion & Fuel System Considerations**
 
-Developed conceptual fuel storage layout utilizing wing integral tanks and supplemental fuselage bladder tanks
-Evaluated tradeoffs between fuel capacity and cabin space
-Proposed fuel burn sequencing approach to minimize longitudinal CG migration
-Included empty space in fuel tanks (~4%) to account for thermal expansion margin
+- Developed conceptual fuel storage layout utilizing wing integral tanks and supplemental fuselage bladder tanks
+- Evaluated tradeoffs between fuel capacity and cabin space
+- Proposed fuel burn sequencing approach to minimize longitudinal CG migration
+- Included empty space in fuel tanks (~4%) to account for thermal expansion margin
 
 **4. Cabin & Crew Layout**
 
-Developed crew station layout with visibility and operational constraints in mind
-Configured passenger cabin consistent with mission and weight objectives
+- Developed crew station layout with visibility and operational constraints in mind
+- Configured passenger cabin consistent with mission and weight objectives
 
 **5. Project Coordination**
 
-Organized team meetings and deliverables
-Managed formatting and technical compilation
+- Organized team meetings and deliverables
+- Managed formatting and technical compilation
 
 
 **Key Technical Insights**
 
-Takeoff field length can dominate early aircraft sizing decisions
-Wing loading and thrust-to-weight ratio are strongly coupled in constraint-driven design
-Fuel placement significantly affects CG migration and trim drag
-Early assumptions propagate heavily into final geometry
+- Takeoff field length can dominate early aircraft sizing decisions;
+- Wing loading and thrust-to-weight ratio are strongly coupled in constraint-driven design;
+- Fuel placement significantly affects CG migration and trim drag;
+- Early assumptions propagate heavily into final geometry;
