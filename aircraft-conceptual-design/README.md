@@ -1,5 +1,5 @@
 **VIP Business Jet – Conceptual Aircraft Design**
-
+---
 **Overview**
 ---
 Conceptual design of a midsize VIP jet under transport-category performance constraints. The project followed a structured sizing approach beginning with mission definition, followed by constraint-based performance analysis, iterative refinement of wing loading and thrust-to-weight parameters, and integration of propulsion, fuel storage, and cabin layout considerations.
