@@ -6,20 +6,30 @@ Conceptual design of a midsize VIP jet under transport-category performance cons
 
 Initial performance estimates produced excessive takeoff field length (>10,000 ft). Iterative refinement of W/S and T/W selections reduced runway requirements while maintaining cruise efficiency and mission range targets.
 
-<figure align="center">
+<p align="center">
   <img src="historical_design_inputs.png" width="600"/>
-  <figcaption><em>Figure 1 – Historical Design Inputs</em></figcaption>
-</figure>
+</p>
 
-<figure align="center">
+<p align="center">
+  <em>Figure 1 – Historical Design Inputs</em>
+</p>
+
+<p align="center">
   <img src="aircraft_isometric.png" width="600"/>
-  <figcaption><em>Figure 2 – Aircraft Isometric View</em></figcaption>
-</figure>
+</p>
 
-<figure align="center">
+<p align="center">
+  <em>Figure 2 – Aircraft Isometric View</em>
+</p>
+
+<p align="center">
   <img src="aircraft_top_view.png" width="600"/>
-  <figcaption><em>Figure 3 – Aircraft Top View</em></figcaption>
-</figure>
+</p>
+
+<p align="center">
+  <em>Figure 3 – Aircraft Top View</em>
+</p>
+
  
 **My Contributions and Engineering Process**
 ---
