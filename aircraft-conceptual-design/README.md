@@ -4,7 +4,7 @@
 
 Conceptual design of a midsize VIP jet under transport-category performance constraints. The project followed a structured sizing approach beginning with mission definition, followed by constraint-based performance analysis, iterative refinement of wing loading and thrust-to-weight parameters, and integration of propulsion, fuel storage, and cabin layout considerations.
 
-Initial performance estimates produced excessive takeoff field length (>10,000 ft). Iterative refinement of W/S and T/W selections reduced runway requirements while maintaining cruise efficiency and mission range targets.
+Initial performance estimates produced excessive takeoff field length (>10,000 ft). Iterative refinement of W/S and T/W selections reduced runway requirements while maintaining cruise efficiency and mission range targets. The final configuration derived from the selected design parameters is shown in Figures 2 and 3.
 
  
 **My Contributions and Engineering Process**
@@ -28,7 +28,6 @@ Initial performance estimates produced excessive takeoff field length (>10,000 f
 **4. Cabin & Crew Layout**
 - Developed crew station layout with visibility and operational constraints in mind
 - Configured passenger cabin consistent with mission and weight objectives
-- The final configuration derived from the selected design parameters is shown in Figures 2 and 3
 
 **5. Project Coordination**
 - Organized team meetings and deliverables
