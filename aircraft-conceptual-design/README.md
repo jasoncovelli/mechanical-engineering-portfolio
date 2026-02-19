@@ -32,7 +32,7 @@ Initial performance estimates produced excessive takeoff field length (>10,000 f
 - Developed conceptual fuel storage layout utilizing wing integral tanks and supplemental fuselage bladder tanks
 - Evaluated tradeoffs between fuel capacity and cabin space
 - Proposed fuel burn sequencing approach to minimize longitudinal CG migration
-- Included empty space in fuel tanks (~4%) to account for thermal expansion margin
+- Included ullage allowance (~4%) to account for thermal expansion margin
 
 **4. Cabin & Crew Layout**
 
