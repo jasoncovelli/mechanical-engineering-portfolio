@@ -54,7 +54,7 @@ Select load-bearing components were evaluated using SolidWorks Simulation with a
 - Identified stress concentrations
 - Recognized boundary condition idealization significantly influenced local stress magnitude
 - Observed stress amplification near sharp reentrant corner 
-- Calculated factors of safety for primary support members  
+- Estimated factors of safety based on von Mises stress and assumed material yield strength 
 
 Representative results:
 
