@@ -36,6 +36,17 @@ Initial performance estimates produced excessive takeoff field length (>10,000 f
 
 ---
 
+**Modeling Assumptions & Simplifications**
+- Sea-level standard atmospheric conditions
+- Incompressible flow assumption
+- Steady, level flight at stall (L = W)
+- No maneuvering load factor or gust loading
+- No compressibility or Reynolds-number correction
+- Rigid airframe (no aeroelastic coupling)
+- Constant maximum lift coefficient (CLmax assumed)
+
+---
+
 **Key Technical Insights**
 - Takeoff field length can dominate early aircraft sizing decisions
 - Wing loading and thrust-to-weight ratio are strongly coupled in constraint-driven design
