@@ -71,6 +71,15 @@ Analysis highlighted the importance of interpreting peak stresses near geometric
 
 ---
 
+**Modeling Assumptions & Limitations**
+
+- Linear elastic analysis
+- No contact modeling
+- Simplified boundary constraints
+- No fatigue or dynamic loading considered
+
+---
+
 **Engineering Takeaways**
 
 - Translated physical hardware into a fully constrained parametric assembly  
