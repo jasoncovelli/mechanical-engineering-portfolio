@@ -73,10 +73,10 @@ Analysis highlighted the importance of interpreting peak stresses near geometric
 
 **Engineering Takeaways**
 
-- Translating physical hardware into a fully constrained parametric assembly  
-- Applying functional GD&T rather than decorative tolerancing  
-- Understanding datum hierarchy and degree-of-freedom control  
-- Recognizing limitations of simplified boundary conditions in FEA  
+- Translated physical hardware into a fully constrained parametric assembly  
+- Applied GD&T based on functional interfaces and load transfer
+- Furthered understanding of datum hierarchy and degree-of-freedom control  
+- Recognized limitations of simplified boundary conditions in FEA  
 - Performed mesh refinement to assess stress sensitivity  
 
 ---
