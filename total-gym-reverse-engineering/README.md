@@ -3,7 +3,7 @@
 
 **Overview**
 
-Reverse-engineered a commercial incline training system by physically measuring components (tape measure and calipers), reconstructing the geometry in SolidWorks, assembling the system, and producing manufacturing drawings with ASME Y14.5-compliant GD&T.  
+Measured and recreated a commercial incline training system by physically measuring components (tape measure and calipers), reconstructing the geometry in SolidWorks, assembling the system, and producing manufacturing drawings with ASME Y14.5-compliant GD&T.  
 
 The project emphasized functional datum selection, tolerance control of critical interfaces, and translation of physical hardware into a parametric CAD model suitable for manufacturing documentation.
 
