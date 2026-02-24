@@ -51,9 +51,10 @@ Key considerations included:
 **Structural Assessment (Static FEA)**
 
 Select load-bearing components were evaluated using SolidWorks Simulation under a 400 lb distributed user load assumption.
-
-- Observed stress amplification near sharp reentrant corner  
-- Identified stress concentrations and evaluated boundary condition sensitivity  
+ 
+- Identified stress concentrations
+- Recognized boundary condition idealization significantly influenced local stress magnitude
+- Observed stress amplification near sharp reentrant corner 
 - Calculated factors of safety for primary support members  
 
 Representative results:
