@@ -49,8 +49,8 @@ Key considerations included:
 
 **Structural Assessment (Static FEA)**
 
-Select load-bearing components were evaluated using SolidWorks Simulation under a 400 lb distributed user load assumption.
- 
+Select load-bearing components were evaluated using SolidWorks Simulation with a 400 lb distributed load applied to approximate worst-case static user loading.
+
 - Identified stress concentrations
 - Recognized boundary condition idealization significantly influenced local stress magnitude
 - Observed stress amplification near sharp reentrant corner 
