@@ -34,10 +34,8 @@ Key considerations included:
 
 - Primary datum selection based on functional contact surfaces  
 - Secondary datums selected to restrict remaining degrees of freedom  
-- Application of flatness, position, perpendicularity, and size tolerances  
+- Application of flatness, perpendicularity, and size tolerances  
 - Proper constraint of all six degrees of freedom through datum hierarchy
-
-
 - Control of wheel mounts, structural joints, and connection features
 
 <p align="center">
@@ -54,7 +52,7 @@ Key considerations included:
 
 Select load-bearing components were evaluated using SolidWorks Simulation under a 400 lb distributed user load assumption.
 
-- Performed mesh refinement and convergence studies  
+- Observed stress amplification near sharp reentrant corner  
 - Identified stress concentrations and evaluated boundary condition sensitivity  
 - Calculated factors of safety for primary support members  
 
