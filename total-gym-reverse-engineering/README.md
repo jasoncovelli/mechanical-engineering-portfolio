@@ -14,7 +14,7 @@ The project emphasized functional datum selection, tolerance control of critical
 - Measured and modeled 7 structural components
 - Built fully constrained parametric assembly
 - Applied material properties from SolidWorks library
-- Verified part relationships and load paths through assembly constraints
+- Verified geometric relationships and mating interfaces through assembly constraints
 
 <p align="center">
   <img src="assembly_view.png" width="650"/>
